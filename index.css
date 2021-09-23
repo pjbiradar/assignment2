@@ -65,7 +65,7 @@
     position: relative;
     top: -554px;
     right: -132px;
-   
+
     padding-top: 96px;
 }
 body{
@@ -78,13 +78,14 @@ body{
     height: 17px;
     width: 434px;
     margin-left: 451px;
-    border-radius: 30%;
-    padding: 27px 20px 30px 34px;
+    border-radius: 50px;
+    padding: 27px 20px 36px 34px;
     text-align: center;
-    font-size: xx-large;
+    font-size:xx-large;
     font-style: italic;
+    font-weight: bold;
     position: absolute;
-    bottom: -372px
+    bottom: -375px
 }
 .parent1{
     flex-direction: row;
@@ -94,19 +95,20 @@ body{
 }
 .child1{
     border: 4px solid green;
-    border-radius: 80px;
+    border-radius: 69px;
     font-size: large;
     color: indigo;
-    margin: 30px;
-    height: 340px;
-    width: 307px;
+    margin: 3px 30px 40px 45px;
+    height: 307px;
+    width: 318px;
+    font-weight:800;
     font-style: normal;
     text-align: center;
     background-color: mediumturquoise;
     display: inline-block;
     top: 894px;
     position: relative;
-   
+
 }
 .child2{
     border: 4px solid green;
@@ -116,6 +118,7 @@ body{
     margin: 3px 30px 40px 45px;
     height: 307px;
     width: 318px;
+    font-weight:800;
     font-style: normal;
     text-align: center;
     background-color: mediumturquoise;
@@ -131,15 +134,16 @@ body{
 .child3{
     border: 4px solid green;
     border-radius: 69px;
-    font-size: smaller;
+    font-size: large;
     color: indigo;
-    padding: 45px;
+    padding: 13px;
     margin: 3px 30px 40px 45px;
-    height: 400px;
-    width: 339px;
+    height: 343px;
+    width: 328px;
     font-style: normal;
+    font-weight: 800;
     text-align: center;
     background-color: mediumturquoise;
-    
-
+    position: relative;
+    top: 935px;
 }
