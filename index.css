@@ -1,3 +1,10 @@
+body{
+    background-image: url(./image1/hhhhhh.jpg);
+    border: 15px solid purple;
+
+}
+
+
 .class1{
     border: 8px solid crimson;
     font-style: italic;
@@ -65,11 +72,7 @@
     position: relative;
     top: -554px;
     right: -132px;
-
     padding-top: 96px;
-}
-body{
-    background-image: url(./image1/hhhhhh.jpg);
 }
 .class6{
     color: white;
@@ -147,3 +150,4 @@ body{
     position: relative;
     top: 935px;
 }
+
